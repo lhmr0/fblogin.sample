@@ -1,4 +1,4 @@
-package com.example.c3p0.fbsample;
+package com.example.c3p0.loginfb;
 
 import org.junit.Test;
 

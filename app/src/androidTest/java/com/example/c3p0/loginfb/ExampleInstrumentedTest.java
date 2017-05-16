@@ -1,4 +1,4 @@
-package com.example.c3p0.fbsample;
+package com.example.c3p0.loginfb;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.c3p0.fbsample", appContext.getPackageName());
+        assertEquals("com.example.c3p0.loginfb", appContext.getPackageName());
     }
 }
